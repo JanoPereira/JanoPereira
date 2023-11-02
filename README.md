@@ -1,6 +1,6 @@
 ### Hola, soy Jano Pereira 👋
 
-Actualmente estudio la carrera de Desarrollador Full Stack en Digital House.(Termino en noviembre)
+Desarrollador Full Stack recibido Digital House.(noviembre 2022)
 
 Contacto:  
 
